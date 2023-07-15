@@ -1,0 +1,5 @@
+basically we can create our own custom cache
+policy, 
+
+we can also use invalidations to reset the
+cache, if we want change now only.

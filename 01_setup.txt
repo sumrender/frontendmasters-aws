@@ -1,0 +1,21 @@
+The content folder in the repo has all the notes
+https://github.com/sumrender/aws-v2
+
+create aws account
+
+create new user with administrator access
+  access key can be generated later
+  by going to users -> yzal -> security credentials
+  if needed, idk at this point
+
+// signin url
+https://yzal.signin.aws.amazon.com/console
+
+create a bucket, and change its policies
+
+upload an index.html,
+
+you can enable set host static sites
+in permissions of the bucket, and 
+after adding index.html name, a link
+will be generated for the same.

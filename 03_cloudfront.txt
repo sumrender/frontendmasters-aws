@@ -1,0 +1,29 @@
+for fast access around the world.
+
+http://sumrender.s3-website.ap-south-1.amazonaws.com
+
+above is the url of bucket
+pasting it while creating cloudfront distribution in origin domain
+
+
+if we have a custom domain, we need to have 
+custom ssl certificate for https,
+but if we are not using custom domain,
+
+cloudfront will generate its own url, with 
+https enabled, only downside is the url 
+name, but awesome now for learning purposes,
+
+no money spent on domain names.
+
+A rich sammy is a happy sammy.
+
+
+next stem is OAI: Origin Access Identity
+  In this basically we are locking down the 
+  bucket, essentially only letting cloudfront
+  access stuff from the bucket
+
+// BUT I AM SKIPPING THE OAI PART
+// and cloudfront routing
+

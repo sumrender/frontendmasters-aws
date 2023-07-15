@@ -1,0 +1,18 @@
+build any react project with client routing
+
+upload it to bucket using aws cli
+
+make sure that static site hosting is on
+
+you will notice that client side routing fails
+
+one way to bypass is to set error page
+route to index.html itself, which 
+will resolve the routing but it is 
+a temporary fix only, as server returns
+404
+
+
+next process for going to www.superawesome.click
+create another bucket and redirect it to
+superawesome.click bucket
